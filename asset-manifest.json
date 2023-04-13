@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dailyfeeds/static/js/main.bc56eea1.js",
+    "index.html": "/dailyfeeds/index.html",
+    "main.bc56eea1.js.map": "/dailyfeeds/static/js/main.bc56eea1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc56eea1.js"
+  ]
+}
